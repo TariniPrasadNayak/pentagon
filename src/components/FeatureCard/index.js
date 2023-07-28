@@ -6,7 +6,7 @@ const FeatureCard = ({ cards = [1, 2, 3] }) => {
     <section class="text-gray-600 body-font">
       <div class="container px-5 py-24 mx-auto">
         <div class="flex flex-col text-center w-full mb-20">
-          <h2 class="text-xs text-indigo-500 tracking-widest font-medium title-font mb-1"></h2>
+          <h2 class="text-xs text-purple-800 tracking-widest font-medium title-font mb-1"></h2>
           <h1 class="sm:text-3xl text-2xl font-medium title-font text-gray-900">
             PRODUCT CATEGORIES
           </h1>
@@ -20,7 +20,7 @@ const FeatureCard = ({ cards = [1, 2, 3] }) => {
               >
                 <div class="flex rounded-lg h-full bg-gray-100 p-8 flex-col">
                   <div class="flex items-center mb-3">
-                    <div class="w-8 h-8 mr-3 inline-flex items-center justify-center rounded-full bg-indigo-500 text-white flex-shrink-0">
+                    <div class="inline-flex items-center text-white bg-purple-600 border-0 py-2 px-4 focus:outline-none hover:bg-purple-800 rounded text-base mt-4 md:mt-0">
                       <svg
                         fill="none"
                         stroke="currentColor"
@@ -38,10 +38,7 @@ const FeatureCard = ({ cards = [1, 2, 3] }) => {
                     </h2>
                   </div>
                   <div class="flex-grow">
-                    <p class="leading-relaxed text-base">
-                      Blue bottle crucifix vinyl post-ironic four dollar toast
-                      vegan taxidermy. Gastropub indxgo juice poutine.
-                    </p>
+                    <p class="leading-relaxed text-base"></p>
                     <a class="mt-3 text-indigo-500 inline-flex items-center">
                       Learn More
                       <svg
