@@ -1,6 +1,6 @@
 import React from "react";
 
-const FeatureCard = () => {
+const FeaturesCard = () => {
   return (
     <section className="text-gray-600 body-font ">
       <div className="flex flex-col text-center w-full mb-30">
@@ -146,4 +146,4 @@ const FeatureCard = () => {
   );
 };
 
-export default FeatureCard;
+export default FeaturesCard;

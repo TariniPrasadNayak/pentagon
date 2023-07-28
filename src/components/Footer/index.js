@@ -18,9 +18,7 @@ const Footer = () => {
             >
               <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
             </svg>
-            <span className="ml-3 text-xl">
-              Shop Non-Stop on My Shopping Site
-            </span>
+            <span className="ml-3 text-xl">Shop Non-Stop on MeeTrendzz</span>
           </a>
           <p className="mt-2 text-sm text-purple-600">
             Trusted by more than 1 Crore Indians Cash on Delivery | Free
@@ -30,36 +28,50 @@ const Footer = () => {
         <div className="flex-grow flex flex-wrap md:pl-20 -mb-10 md:mt-0 mt-10 md:text-left text-center">
           <div className="lg:w-1/4 md:w-1/2 w-full px-4">
             <h2 className="title-font font-medium text-purple-600 tracking-widest text-sm mb-3">
-            BECOME A RESELLER 
+              BECOME A RESELLER
             </h2>
             <nav className="list-none mb-10">
               <li>
-                <a className="text-gray-600 hover:text-gray-800 cursor-pointer">Careers</a>
+                <a className="text-gray-600 hover:text-gray-800 cursor-pointer">
+                  Careers
+                </a>
               </li>
               <li>
-                <a className="text-gray-600 hover:text-gray-800 cursor-pointer">Become a supplier</a>
+                <a className="text-gray-600 hover:text-gray-800 cursor-pointer">
+                  Become a supplier
+                </a>
               </li>
               <li>
-                <a className="text-gray-600 hover:text-gray-800 cursor-pointer">Hall of Fame</a>
+                <a className="text-gray-600 hover:text-gray-800 cursor-pointer">
+                  Hall of Fame
+                </a>
               </li>
               <li>
-                <a className="text-gray-600 hover:text-gray-800 cursor-pointer">Sitemap</a>
+                <a className="text-gray-600 hover:text-gray-800 cursor-pointer">
+                  Sitemap
+                </a>
               </li>
             </nav>
           </div>
           <div className="lg:w-1/4 md:w-1/2 w-full px-4">
             <h2 className="title-font font-medium text-purple-600 tracking-widest text-sm mb-3">
-            CONSUMER POLICY
+              CONSUMER POLICY
             </h2>
             <nav className="list-none mb-10">
               <li>
-                <a className="text-gray-600 hover:text-gray-800 cursor-pointer">Legal and Policies</a>
+                <a className="text-gray-600 hover:text-gray-800 cursor-pointer">
+                  Legal and Policies
+                </a>
               </li>
               <li>
-                <a className="text-gray-600 hover:text-gray-800 cursor-pointer">Terms Of Use</a>
+                <a className="text-gray-600 hover:text-gray-800 cursor-pointer">
+                  Terms Of Use
+                </a>
               </li>
               <li>
-                <a className="text-gray-600 hover:text-gray-800 cursor-pointer">Security and Privacy</a>
+                <a className="text-gray-600 hover:text-gray-800 cursor-pointer">
+                  Security and Privacy
+                </a>
               </li>
             </nav>
           </div>
@@ -69,16 +81,24 @@ const Footer = () => {
             </h2>
             <nav className="list-none mb-10">
               <li>
-                <a className="text-gray-600 hover:text-gray-800 cursor-pointer">Payments</a>
+                <a className="text-gray-600 hover:text-gray-800 cursor-pointer">
+                  Payments
+                </a>
               </li>
               <li>
-                <a className="text-gray-600 hover:text-gray-800 cursor-pointer">Shipping</a>
+                <a className="text-gray-600 hover:text-gray-800 cursor-pointer">
+                  Shipping
+                </a>
               </li>
               <li>
-                <a className="text-gray-600 hover:text-gray-800 cursor-pointer">Cancellation</a>
+                <a className="text-gray-600 hover:text-gray-800 cursor-pointer">
+                  Cancellation
+                </a>
               </li>
               <li>
-                <a className="text-gray-600 hover:text-gray-800 cursor-pointer">Return</a>
+                <a className="text-gray-600 hover:text-gray-800 cursor-pointer">
+                  Return
+                </a>
               </li>
             </nav>
           </div>
@@ -88,16 +108,24 @@ const Footer = () => {
             </h2>
             <nav className="list-none mb-10">
               <li>
-                <a className="text-gray-600 hover:text-gray-800 cursor-pointer">About Us</a>
+                <a className="text-gray-600 hover:text-gray-800 cursor-pointer">
+                  About Us
+                </a>
               </li>
               <li>
-                <a className="text-gray-600 hover:text-gray-800 cursor-pointer">Contact Us</a>
+                <a className="text-gray-600 hover:text-gray-800 cursor-pointer">
+                  Contact Us
+                </a>
               </li>
               <li>
-                <a className="text-gray-600 hover:text-gray-800 cursor-pointer">Careers</a>
+                <a className="text-gray-600 hover:text-gray-800 cursor-pointer">
+                  Careers
+                </a>
               </li>
               <li>
-                <a className="text-gray-600 hover:text-gray-800 cursor-pointer">Information</a>
+                <a className="text-gray-600 hover:text-gray-800 cursor-pointer">
+                  Information
+                </a>
               </li>
             </nav>
           </div>
@@ -106,7 +134,7 @@ const Footer = () => {
       <div className="bg-gray-100">
         <div className="container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row ">
           <p className="text-purple-500 text-sm text-center sm:text-left cursor-pointer">
-            © 2023 My_Shopping_Site —
+            © 2023 MeeTrendzz—
             <a
               href="https://twitter.com/knyttneve"
               rel="noopener noreferrer"

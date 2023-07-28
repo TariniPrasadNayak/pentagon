@@ -6,17 +6,17 @@ const Hero = () => {
       <div className="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">
-            Lowest Prices 
+            Lowest Prices
           </h1>
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">
-             Best Quality Shopping
+            Best Quality Shopping
           </h1>
           <p className="mb-8 leading-relaxed">
-          Become a Reseller an Start your Online Business with Zero Investment
+            Become a Reseller an Start your Online Business with Zero Investment
           </p>
           <div className="flex w-full md:justify-start justify-center items-end">
             <button className="inline-flex text-white bg-purple-500 border-0 py-2 px-6 focus:outline-none hover:bg-purple-600 rounded text-lg ">
-             Download the Meesho App Now ^_^
+              Download the MeeTrendzz app now^_^
             </button>
           </div>
           <p className="text-sm mt-2 text-gray-500 mb-8 w-full">
@@ -34,7 +34,9 @@ const Hero = () => {
               </svg>
               <span className="ml-4 flex items-start flex-col leading-none">
                 <span className="text-xs text-blue-600 mb-1">GET IT ON</span>
-                <span className="title-font font-medium text-blue-600 ">Google Play</span>
+                <span className="title-font font-medium text-blue-600 ">
+                  Google Play
+                </span>
               </span>
             </button>
             <button className="bg-gray-100 inline-flex py-3 px-5 rounded-lg items-center lg:ml-4 md:ml-0 ml-4 md:mt-4 mt-0 lg:mt-0 hover:bg-gray-200 focus:outline-none">
@@ -51,7 +53,9 @@ const Hero = () => {
                 <span className="text-xs text-blue-600 mb-1">
                   Download on the
                 </span>
-                <span className="title-font font-medium text-blue-600 ">App Store</span>
+                <span className="title-font font-medium text-blue-600 ">
+                  App Store
+                </span>
               </span>
             </button>
           </div>
